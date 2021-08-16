@@ -59,12 +59,12 @@ Semana	| Contenido clase						  |	Ayudantía
 #4      |SQL Avanzado 				                      |
 #5      |Diagramas ER, Llaves foráneas 			  |								
 #6      |Dependencias, Anomalías, Formas normales |	Ayudantía 3 (PHP)
-#7      |Storage, Indexing               		  |	Ayudantía 4 (C2)	
-#8      |Evaluación de consultas							  |	
+#7      |Storage, Indexing               		  |	
+#8      |Evaluación de consultas							  |	Ayudantía 4 (C2)	
 #9      |Semana de Receso						  |	
 #10     |Lógica en la BD									  |	
-#11     |Programación									  |	
-#12     |Transacciones y recuperación de fallas   |	Ayudantía (Proyecto)	
+#11     |Programación									  |	Ayudantía (Proyecto)
+#12     |Transacciones y recuperación de fallas   |		
 #13     |Data Science y SQL						  |	
 #14     |NoSQL			  |		
 #15     |Privacidad						  |		
