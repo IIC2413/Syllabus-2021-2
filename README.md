@@ -22,7 +22,7 @@
 Nombre              | Sección | Email
 ------------------- | ------- | ---------------------
 Andrés Cadiz        | 1       | [afcadiz@uc.cl]
-Raimundo Herrera    | 2       | [rjherrara@uc.cl]
+Raimundo Herrera    | 2       | [rjherrera@uc.cl]
 Matías Toro         | 3       | [matias.toro@uc.cl]
 
 ### Cuerpo de ayudantes
@@ -40,7 +40,7 @@ WIP
 
 
 [afcadiz@uc.cl]: mailto:afcadiz@uc.cl
-[rjherrara@uc.cl]: mailto:rjherrara@uc.cl
+[rjherrera@uc.cl]: mailto:rjherrera@uc.cl
 [matias.toro@uc.cl]: mailto:matias.toro@uc.cl
 
 [vjalvarez@uc.cl]: mailto:vjalvarez@uc.cl
@@ -49,27 +49,27 @@ WIP
 
 ---
 
-## Contenidos 
+## Contenidos
 
 Semana	| Contenido clase						  |	Ayudantía
 --------|-----------------------------------------|-------------------------------------------------------------------
-#1      |Introducción		  |																					
-#2      |Model relacional, Álgebra relacional 					  |	Ayudantía 1 (C1)
+#1      |Introducción		  |
+#2      |Modelo relacional, Álgebra relacional 					  |	Ayudantía 1 (C1)
 #3      |SQL                               	  |	Ayudantía 2 (Servidor)
 #4      |SQL Avanzado 				                      |
-#5      |Diagramas ER, Llaves foráneas 			  |								
+#5      |Diagramas ER, Llaves foráneas 			  |
 #6      |Dependencias, Anomalías, Formas normales |	Ayudantía 3 (PHP)
-#7      |Storage, Indexing               		  |	
-#8      |Evaluación de consultas							  |	Ayudantía 4 (C2)	
-#9      |Lógica en la BD						  |	
-#10     |Semana de Receso									  |	
+#7      |Storage, Indexing               		  |
+#8      |Evaluación de consultas							  |	Ayudantía 4 (C2)
+#9      |Lógica en la BD						  |
+#10     |Semana de Receso									  |
 #11     |Programación									  |	Ayudantía (Proyecto)
-#12     |Transacciones y recuperación de fallas   |		
-#13     |Data Science y SQL						  |	
-#14     |NoSQL			  |		
-#15     |Privacidad						  |		
-#16     |Data Engineering								  |	
-#17     |No hay clases							  |	
+#12     |Transacciones y recuperación de fallas   |
+#13     |Data Science y SQL						  |
+#14     |NoSQL			  |
+#15     |Privacidad						  |
+#16     |Data Engineering								  |
+#17     |No hay clases							  |
 
 
 ---
@@ -102,7 +102,7 @@ Fecha      | Evaluación
 3/12      | Entrega 3
 
 
---- 
+---
 
 ## Foro
 
@@ -112,7 +112,7 @@ Tanto al publicar como comentar, debes atenerte a las **normas del curso**. Adem
 
 Una vez resuelto el problema, da las **gracias** y **cierra el issue**.
 
-**Importante**: El equipo docente puede tardar mas de 24 horas en contestar una _issue_, aunque normalmente el tiempo de respuesta debería ser menor. Por lo mismo, se recomienda **no publicar _issues_ el mismo día de alguna entrega o interrogación**.
+**Importante**: El equipo docente puede tardar más de 24 horas en contestar una _issue_, aunque normalmente el tiempo de respuesta debería ser menor. Por lo mismo, se recomienda **no publicar _issues_ el mismo día de alguna entrega o interrogación**.
 
 
 ---
