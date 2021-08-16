@@ -61,8 +61,8 @@ Semana	| Contenido clase						  |	Ayudantía
 #6      |Dependencias, Anomalías, Formas normales |	Ayudantía 3 (PHP)
 #7      |Storage, Indexing               		  |	
 #8      |Evaluación de consultas							  |	Ayudantía 4 (C2)	
-#9      |Semana de Receso						  |	
-#10     |Lógica en la BD									  |	
+#9      |Lógica en la BD						  |	
+#10     |Semana de Receso									  |	
 #11     |Programación									  |	Ayudantía (Proyecto)
 #12     |Transacciones y recuperación de fallas   |		
 #13     |Data Science y SQL						  |	
