@@ -108,7 +108,7 @@ Fecha      | Evaluación
 
 La nota de controles y exámenes (NCE) corresponde al promedio de los controles y el examen. En otras
 palabras: 
- * NCE = (C1 + C2 + C3 + Ex )/4
+ * NCE = (C1 + C2 + C3 + Ex ) / 4
 
 El control bonus puede reemplazar su peor control, pero no el examen. Y se podrán eximir del examen los alumnos que tengan un promedio entre los 3 controles > 5,5.
 
