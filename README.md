@@ -7,6 +7,7 @@
   - [Ayudantes](#ayudantes)
 - [Contenidos](#contenidos)
 - [Calendario](#calendario-evaluaciones)
+- [Evaluaciones](#evaluaciones)
 - [Resumen de notas](#resumen-de-notas)
 - [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
@@ -104,7 +105,7 @@ Fecha      | Evaluación
 
 ---
 
-## Resumen de notas
+## Evaluaciones
 
 La nota de controles y exámenes (NCE) corresponde al promedio de los controles y el examen. En otras
 palabras: 
@@ -125,6 +126,12 @@ Entrega 3  | 40%
 
 Para aprobar el ramo, el alumno debe cumplir que NCE y NP sean >= 3,95. En ese caso, la nota final se
 calcula como NF = (0,5 NCE + 0,5 NP). En caso contrario, NF = mín{NCE , NP}.
+
+
+---
+
+## Resumen de notas
+---
 
 ## Foro
 
