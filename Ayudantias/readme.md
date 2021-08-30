@@ -1,4 +1,4 @@
-# Clases Online
+# Ayudantias Online
 
 | Nombre Ayudantia | Fecha | Link |
 |--------------|-------|------|
