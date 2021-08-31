@@ -7,7 +7,8 @@
   - [Ayudantes](#ayudantes)
 - [Contenidos](#contenidos)
 - [Calendario](#calendario-evaluaciones)
-- [Resumen de notas](#Resumen-de-notas)
+- [Evaluaciones](#evaluaciones)
+- [Resumen de notas](#resumen-de-notas)
 - [Foro](#foro)
 - [Política de integridad académica](#política-de-integridad-académica)
 
@@ -102,6 +103,34 @@ Fecha      | Evaluación
 3/12      | Entrega 3
 
 
+---
+
+## Evaluaciones
+
+La nota de controles y exámenes (NCE) corresponde al promedio de los controles y el examen. En otras
+palabras: 
+ * NCE = (C1 + C2 + C3 + Ex ) / 4
+
+El control bonus puede reemplazar su peor control, pero no el examen. Y se podrán eximir del examen los alumnos que tengan un promedio entre los 3 controles > 5,5.
+
+La nota del proyecto (NP) corresponde al promedio ponderado de todas las entregas del proyecto. La
+ponderación es: 
+
+
+Proyecto   | Porcentaje
+-----------|------------
+Entrega 1  | 20%
+Entrega 2  | 40%
+Entrega 3  | 40%
+
+
+Para aprobar el ramo, el alumno debe cumplir que NCE y NP sean >= 3,95. En ese caso, la nota final se
+calcula como NF = (0,5 NCE + 0,5 NP). En caso contrario, NF = mín{NCE , NP}.
+
+
+---
+
+## Resumen de notas
 ---
 
 ## Foro
