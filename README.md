@@ -96,7 +96,7 @@ Fecha      | Evaluación
 Fecha      | Evaluación
 -----------|------------
 01/09      | Enunciado Entrega 1
-17/09      | Entrega 1
+16/09      | Entrega 1
 22/09      | Enunciado Entrega 2
 15/10      | Entrega 2
 15/10      | Enunciado Entrega 3
