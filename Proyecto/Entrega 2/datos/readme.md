@@ -1,3 +1,12 @@
+## Historial de modificaciones
+
+Fecha           | Hora      | Archivo         | Modificación
+---------------- |--------- |--------------- |-------------
+2-10-2021       | 13:05    | ```videojuego.csv```| Se añade la columan correspondiente a géneros
+2-10-2021       | 13:05    | ```videojuego_genero.csv```| Se añade el archivo para facilitar las posibles modificaciones de videojuego.csv original
+
+
+
 ## Bienvenidos a los datos de la entega 2 del proyecto de bases de datos
 
 A continuación le presentamos una serie de consejos para su uso:

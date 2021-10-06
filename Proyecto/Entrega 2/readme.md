@@ -1,3 +1,11 @@
+## Historial de modificaciones de datos
+
+Fecha           | Hora      | Archivo         | Modificación
+---------------- |--------- |--------------- |-------------
+2-10-2021       | 13:05    | ```videojuego.csv```| Se añade la columan correspondiente a géneros
+2-10-2021       | 13:05    | ```videojuego_genero.csv```| Se añade el archivo para facilitar las posibles modificaciones de videojuego.csv original
+
+
 # Rúbrica E2
 
 ## Puntajes (78 pts): 

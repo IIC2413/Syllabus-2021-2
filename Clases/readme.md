@@ -8,3 +8,4 @@
 |SQL Avanzado|08/09|https://drive.google.com/file/d/15FNn0Ziku_4rTj7I87sIBpAkFQ_o5e4Q/view|
 |Buen diseño base de datos|15/09|https://drive.google.com/file/d/1iuRPdN02cmO2FuOml0os-hDU9YfRlTix/view|
 |Dependencias y formas normales|22/09|https://drive.google.com/file/d/1lph05eqGMSoxSO54cvabY4AgSs3ZbQbI/view|
+|Índices y optimización|29/09|https://drive.google.com/file/d/15Q7JtgmGN8fK5el41Rvh9_ORUTeALxrm/view|
