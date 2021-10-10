@@ -5,6 +5,9 @@ Fecha           | Hora      | Archivo         | Modificación
 2-10-2021       | 13:05    | ```videojuego.csv```| Se añade la columan correspondiente a géneros
 2-10-2021       | 13:05    | ```videojuego_genero.csv```| Se añade el archivo para facilitar las posibles modificaciones de videojuego.csv original
 
+## Comentarios adicionales
+
+- `usuarios_actividades.csv` la columna de cantidad hace referencia a la cantidad de horas jugadas por el usuario.
 
 
 ## Bienvenidos a los datos de la entega 2 del proyecto de bases de datos
