@@ -10,3 +10,4 @@
 |Dependencias y formas normales|22/09|https://drive.google.com/file/d/1lph05eqGMSoxSO54cvabY4AgSs3ZbQbI/view|
 |Índices y optimización|29/09|https://drive.google.com/file/d/15Q7JtgmGN8fK5el41Rvh9_ORUTeALxrm/view|
 |Evaluación de consultas|7/10|https://drive.google.com/file/d/1bSEOHeKN-JBVfbXkQHXbe7cqDX8sUtZb/view|
+|Lógica en la base de datos|13/10|https://drive.google.com/file/d/19z9HcC0Z6glZZKhdEnnYxtz7YKWg5Ne2/view|
