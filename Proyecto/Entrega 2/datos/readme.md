@@ -4,7 +4,13 @@ Fecha           | Hora      | Archivo         | Modificación
 ---------------- |--------- |--------------- |-------------
 2-10-2021       | 13:05    | ```videojuego.csv```| Se añade la columan correspondiente a géneros
 2-10-2021       | 13:05    | ```videojuego_genero.csv```| Se añade el archivo para facilitar las posibles modificaciones de videojuego.csv original
+10-10-2021       | 23:05    | ```pagos.csv``` impares| Se modifica la columna subs_id por un problema con sus valores
+13-10-2021       | 1:05    | ```pagos.csv``` pares| Se modifica la fila 5994, eliminando el valor de la columna subs_id de dicho dato
 
+## Comentarios adicionales
+
+- `usuarios_actividades.csv` la columna de cantidad hace referencia a la cantidad de horas jugadas por el usuario.
+- La serie Rick and Morty no posee género, este se puede remplazar por un valor nulo o por Ciencia Ficción.
 
 
 ## Bienvenidos a los datos de la entega 2 del proyecto de bases de datos
