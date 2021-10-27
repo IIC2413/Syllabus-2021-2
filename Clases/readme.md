@@ -11,3 +11,4 @@
 |Índices y optimización|29/09|https://drive.google.com/file/d/15Q7JtgmGN8fK5el41Rvh9_ORUTeALxrm/view|
 |Evaluación de consultas|7/10|https://drive.google.com/file/d/1bSEOHeKN-JBVfbXkQHXbe7cqDX8sUtZb/view|
 |Lógica en la base de datos|13/10|https://drive.google.com/file/d/19z9HcC0Z6glZZKhdEnnYxtz7YKWg5Ne2/view|
+|SQL y programación|27/10|https://drive.google.com/file/d/1yzGKXb5Gjr_OJoP3un0S_h353AD0OsTN/view?usp=sharing
