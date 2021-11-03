@@ -99,7 +99,7 @@ Fecha      | Evaluación
 16/09      | Entrega 1
 22/09      | Enunciado Entrega 2
 15/10      | Entrega 2
-15/10      | Enunciado Entrega 3
+3/11      | Enunciado Entrega 3
 3/12      | Entrega 3
 
 
