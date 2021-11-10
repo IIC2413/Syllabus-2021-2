@@ -13,3 +13,4 @@
 |Lógica en la base de datos|13/10|https://drive.google.com/file/d/19z9HcC0Z6glZZKhdEnnYxtz7YKWg5Ne2/view|
 |SQL y programación|27/10|https://drive.google.com/file/d/1yzGKXb5Gjr_OJoP3un0S_h353AD0OsTN/view?usp=sharing
 |ACID|03/11|https://drive.google.com/file/d/1FNUv2xIqOpQa-DwCEtGiWJMnE1dwzPZR/view?usp=sharing
+|Data science|10/11|https://drive.google.com/file/d/1sfvR7Ml52vyLVeGc8c8uQRApfFby1mDW/view?usp=sharing
