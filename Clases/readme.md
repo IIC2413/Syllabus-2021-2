@@ -14,3 +14,4 @@
 |SQL y programación|27/10|https://drive.google.com/file/d/1yzGKXb5Gjr_OJoP3un0S_h353AD0OsTN/view?usp=sharing
 |ACID|03/11|https://drive.google.com/file/d/1FNUv2xIqOpQa-DwCEtGiWJMnE1dwzPZR/view?usp=sharing
 |Data science|10/11|https://drive.google.com/file/d/1sfvR7Ml52vyLVeGc8c8uQRApfFby1mDW/view?usp=sharing
+|NoSQL + MongoDB|17/11|https://drive.google.com/file/d/1eIN0SY3TEhSktHnJjEtGboEN6F5HYCyU/view?usp=sharing
