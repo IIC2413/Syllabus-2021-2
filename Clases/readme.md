@@ -15,3 +15,4 @@
 |ACID|03/11|https://drive.google.com/file/d/1FNUv2xIqOpQa-DwCEtGiWJMnE1dwzPZR/view?usp=sharing
 |Data science|10/11|https://drive.google.com/file/d/1sfvR7Ml52vyLVeGc8c8uQRApfFby1mDW/view?usp=sharing
 |NoSQL + MongoDB|17/11|https://drive.google.com/file/d/1eIN0SY3TEhSktHnJjEtGboEN6F5HYCyU/view?usp=sharing
+|Privacidad|2/12|https://drive.google.com/file/d/1aBz6hnufDvuhhQCE3pUv6oqp9Qz9Cgox/view?usp=sharing
